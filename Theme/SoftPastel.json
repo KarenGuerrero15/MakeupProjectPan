@@ -1,0 +1,22 @@
+{
+  "name": "Soft Pastel",
+  "dataColors": [
+    "#A8D8EA",
+    "#F4A6B7",
+    "#B5EAD7",
+    "#FFDAC1",
+    "#C7CEEA",
+    "#FFF1A8",
+    "#E2B8E8",
+    "#B8D8BA"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#3D4451",
+  "tableAccent": "#A8D8EA",
+  "good": "#8FD3B6",
+  "neutral": "#FFE08A",
+  "bad": "#F4A6B7",
+  "maximum": "#8FC1E3",
+  "center": "#FFF1A8",
+  "minimum": "#F9D5E5"
+}
