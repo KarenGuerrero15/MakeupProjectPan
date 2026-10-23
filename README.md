@@ -1,4 +1,4 @@
-# Makeup Project Pan Tracker
+# Makeup Project Pan Tracker (Last updated 23/10/2026)
 
 A Power BI dashboard to track my makeup collection and help me buy less, use more, and spend smarter. Built on an Excel database that I update monthly regarding new purchases and product usage.
 
@@ -14,8 +14,7 @@ This system also highlights products approaching their expiry, allowing me to pr
 - I own sufficient makeup across all categories and do not need to purchase additional products. I also need to be especially mindful during the holiday season, as this period consistently triggers higher spending.
 
 ## Live Report
-https://app.powerbi.com/groups/721013f9-cae4-406d-a3fb-1a88fdb620e8/dashboards/d10abfd6-a38a-4acc-8a01-cdef91eedb12?experience=power-bi
-
+https://app.powerbi.com/view?r=eyJrIjoiNDk0NTI0ZjktNmQ0MC00OWJlLTkyMzYtODExMTE3OGMyZjE0IiwidCI6IjdiYmJhMTVkLTVjZDAtNDYxZC1iMDZiLWY3OWNlM2JjNDg1ZSJ9
 ## Questions the Dashboard Answers
 - How many products do I own, and how are they distributed across categories?
 - Which products am I actively using, and which ones remain untouched?
@@ -29,9 +28,9 @@ https://app.powerbi.com/groups/721013f9-cae4-406d-a3fb-1a88fdb620e8/dashboards/d
 
 - I currently own 77 makeup products across face, cheeks, lips, brows, and eyes, with foundations being the product where I have the most units.
 - 72.7% of my products are actively used, while 27.3% remain untouched.
-- My most frequently used items are powders, foundations, and concealers, whereas highlighters and primers show the lowest usage, largely because their use varies more by season than by preference.
-- The strongest cost‑per‑use performers are eyebrow pencils, setting powders, and lip liners, likely because these categories rotate less frequently compared to cheek and eye products.
-- Products across all categories are approaching or past expiry, including both cream and powder formulas. The oldest items — matte liquid lipsticks, powder blushes, and powder bronzers — suggest I should prioritize finishing those first.
+- My most frequently used items are foundations, powders, and lip glosses, whereas primers and highlighters show the lowest usage, largely because their use varies more by season than by preference.
+- The strongest cost‑per‑use performers are eyebrow pencils, face powders, and lip liners, likely because these categories rotate less frequently compared to cheek and eye products.
+- 35 % of my products, across all categories are approaching or past expiry, including both cream and powder formulas. The oldest items — matte liquid lipsticks, powder blushes, and powder bronzers — suggest I should prioritize finishing those first.
 - Spending consistently peaks in Q4, driven by holiday releases and seasonal value sets.
 - My highest spending category has been face palettes, though I expect these to show a favorable long‑term cost‑per‑use since they contain multiple powder products that can be used for a complete face of makeup.
 
@@ -110,4 +109,4 @@ I created DAX measures to calculate cost per use, expiry status, percentage used
 I update the Excel file monthly with new purchases and usage counts, refresh the data in Power BI Desktop, and republish.
 
 ## Contact
-[Karen Guerrero | https://www.linkedin.com/in/karen-guerrero-suarez/]
+| [LinkedIn](https://www.linkedin.com/in/karen-guerrero-suarez/).
